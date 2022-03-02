@@ -24,7 +24,7 @@ if($_SESSION['veref']){
           </form>';
 } else {
     echo '<form action="vendor/sender.php" method="POST">
-            <input type="text" id="email" name="email" placeholder="Your mail"><br><br>
+            <input type="email" id="email" name="email" placeholder="Your mail"><br><br>
             <input type="submit" value="Submit">
           </form>';
 }
