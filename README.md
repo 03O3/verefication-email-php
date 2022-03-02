@@ -1,1 +1,5 @@
-# -activation-email-php
+# Актвицаия почты на чистом php
+Подойтед для ваших проектов, пишу такое впервые поэтому мб есть гавно код
+
+# Mail activation in pure php
+Suitable for your projects, I am writing this for the first time so maybe there is shitty code
