@@ -4,7 +4,7 @@ session_start();
 header('Location: ../');
 
 
-$code = rand(1, 99999);
+$code = rand(100000, 999999);
 
 $_SESSION['code'] = [
     "veref_code" => $code
